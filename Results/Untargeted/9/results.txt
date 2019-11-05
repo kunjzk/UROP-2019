@@ -1,0 +1,6 @@
+For original image:0.217 -> Maltese dog, Maltese terrier, Maltese0.192 -> Persian cat0.162 -> Angora, Angora rabbit0.104 -> wig0.071 -> Lhasa, Lhasa apso
+top1 prediction: Maltese dog, Maltese terrier, Maltese
+
+
+For adversarial image:0.203 -> Persian cat0.194 -> Maltese dog, Maltese terrier, Maltese0.165 -> Angora, Angora rabbit0.111 -> wig0.070 -> toy poodle
+top1 prediction: Persian cat

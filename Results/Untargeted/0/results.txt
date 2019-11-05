@@ -1,0 +1,6 @@
+For original image:0.935 -> sea snake0.023 -> water snake0.011 -> hognose snake, puff adder, sand viper0.005 -> rock python, rock snake, Python sebae0.005 -> garter snake, grass snake
+top1 prediction: sea snake
+
+
+For adversarial image:0.359 -> water snake0.341 -> sea snake0.069 -> garter snake, grass snake0.051 -> hognose snake, puff adder, sand viper0.046 -> rock python, rock snake, Python sebae
+top1 prediction: water snake

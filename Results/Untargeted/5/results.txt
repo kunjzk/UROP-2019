@@ -1,0 +1,6 @@
+For original image:0.591 -> diamondback, diamondback rattlesnake, Crotalus adamanteus0.127 -> sea snake0.099 -> hognose snake, puff adder, sand viper0.080 -> night snake, Hypsiglena torquata0.030 -> water snake
+top1 prediction: diamondback, diamondback rattlesnake, Crotalus adamanteus
+
+
+For adversarial image:0.266 -> sea snake0.263 -> diamondback, diamondback rattlesnake, Crotalus adamanteus0.169 -> night snake, Hypsiglena torquata0.105 -> water snake0.075 -> hognose snake, puff adder, sand viper
+top1 prediction: sea snake

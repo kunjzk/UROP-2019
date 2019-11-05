@@ -1,0 +1,6 @@
+For original image:0.764 -> soup bowl0.110 -> cup0.049 -> coffee mug0.045 -> espresso0.015 -> consomme
+top1 prediction: soup bowl
+
+
+For adversarial image:0.320 -> cup0.315 -> soup bowl0.166 -> espresso0.154 -> coffee mug0.023 -> eggnog
+top1 prediction: cup

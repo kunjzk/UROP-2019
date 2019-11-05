@@ -1,0 +1,6 @@
+For original image:0.381 -> bassinet0.350 -> crib, cot0.257 -> cradle0.004 -> quilt, comforter, comfort, puff0.003 -> diaper, nappy, napkin
+top1 prediction: bassinet
+
+
+For adversarial image:0.370 -> bassinet0.360 -> crib, cot0.257 -> cradle0.004 -> quilt, comforter, comfort, puff0.003 -> diaper, nappy, napkin
+top1 prediction: bassinet

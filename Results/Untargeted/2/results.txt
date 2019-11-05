@@ -1,0 +1,6 @@
+For original image:0.883 -> Shetland sheepdog, Shetland sheep dog, Shetland0.113 -> collie0.000 -> Border collie0.000 -> papillon0.000 -> Pembroke, Pembroke Welsh corgi
+top1 prediction: Shetland sheepdog, Shetland sheep dog, Shetland
+
+
+For adversarial image:0.500 -> Shetland sheepdog, Shetland sheep dog, Shetland0.493 -> collie0.001 -> borzoi, Russian wolfhound0.001 -> Border collie0.000 -> Pembroke, Pembroke Welsh corgi
+top1 prediction: Shetland sheepdog, Shetland sheep dog, Shetland

@@ -1,0 +1,6 @@
+For original image:1.000 -> porcupine, hedgehog0.000 -> echidna, spiny anteater, anteater0.000 -> skunk, polecat, wood pussy0.000 -> colobus, colobus monkey0.000 -> guinea pig, Cavia cobaya
+top1 prediction: porcupine, hedgehog
+
+
+For adversarial image:0.519 -> echidna, spiny anteater, anteater0.479 -> porcupine, hedgehog0.000 -> skunk, polecat, wood pussy0.000 -> wild boar, boar, Sus scrofa0.000 -> hen
+top1 prediction: echidna, spiny anteater, anteater

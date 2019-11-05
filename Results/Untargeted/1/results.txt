@@ -1,0 +1,6 @@
+For original image:0.960 -> ski0.034 -> alp0.002 -> ski mask0.001 -> shovel0.001 -> dogsled, dog sled, dog sleigh
+top1 prediction: ski
+
+
+For adversarial image:0.497 -> alp0.491 -> ski0.002 -> ski mask0.002 -> dogsled, dog sled, dog sleigh0.002 -> mountain tent
+top1 prediction: alp

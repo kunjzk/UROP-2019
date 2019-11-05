@@ -1,0 +1,6 @@
+For original image:0.606 -> mousetrap0.102 -> mongoose0.094 -> hog, pig, grunter, squealer, Sus scrofa0.068 -> wild boar, boar, Sus scrofa0.013 -> baboon
+top1 prediction: mousetrap
+
+
+For adversarial image:0.216 -> mousetrap0.211 -> mongoose0.192 -> hog, pig, grunter, squealer, Sus scrofa0.167 -> wild boar, boar, Sus scrofa0.022 -> baboon
+top1 prediction: mousetrap

@@ -1,0 +1,6 @@
+For original image:0.267 -> bakery, bakeshop, bakehouse0.206 -> ice cream, icecream0.202 -> spatula0.141 -> hair slide0.039 -> ice lolly, lolly, lollipop, popsicle
+top1 prediction: bakery, bakeshop, bakehouse
+
+
+For adversarial image:0.243 -> spatula0.227 -> bakery, bakeshop, bakehouse0.173 -> ice cream, icecream0.158 -> hair slide0.047 -> ice lolly, lolly, lollipop, popsicle
+top1 prediction: spatula
